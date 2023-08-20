@@ -1,0 +1,2 @@
+Hi, testing my function with Git :D
+Testing with "git add ."
